@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🃏 Pexeso Web Game
 
 A web-based memory card-matching game built with Java and Spring Boot.
@@ -40,3 +41,6 @@ spring.datasource.password=your_password
 ![photo_2025-06-27_12-35-26](https://github.com/user-attachments/assets/e7a0c357-3399-4f66-9d66-5b49a30bb452)
 ![photo_2025-06-27_12-35-35](https://github.com/user-attachments/assets/45f15579-7d17-4660-8932-8eb1cdd74892)
 
+=======
+# Pexeso_Game
+>>>>>>> 7569dd591ab4d28ca3b2f6ea4412b0af09716408
